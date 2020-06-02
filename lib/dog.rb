@@ -5,6 +5,10 @@ class radio_button_tag
     
   end
   
+  def name
+    @name
+  end
+  
 end
 
 fido = Dog.new 
