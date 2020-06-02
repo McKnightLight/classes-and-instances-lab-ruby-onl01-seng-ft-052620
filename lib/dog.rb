@@ -1,7 +1,8 @@
 require 'pry'
 class radio_button_tag
   
-  def name = 
+  def name = (name)
+    @name = name
     
   end
   
