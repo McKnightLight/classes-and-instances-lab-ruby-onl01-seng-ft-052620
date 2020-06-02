@@ -1,4 +1,3 @@
-require 'pry'
 class radio_button_tag
   
   def name = (name)
@@ -11,4 +10,4 @@ end
 fido = Dog.new 
 fido.name=("Fido")
 lassie = Dog.new 
-kujo - Dog.new 
+kujo - Dog.new
