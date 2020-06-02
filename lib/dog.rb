@@ -7,4 +7,7 @@ class radio_button_tag
   
 end
 
-fido = Dog.authenticate_or_request_with_http_digestf
+fido = Dog.new 
+fido.name=("Fido")
+lassie = Dog.new 
+kujo - Dog.new 
