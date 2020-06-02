@@ -2,6 +2,6 @@ class Dog
   
 end
 
-fido = Dog.new 
-lassie = Dog.new 
-cujo = Dog.new
+anders = Dog.new 
+ladybird = Dog.new 
+fetch = Dog.new
